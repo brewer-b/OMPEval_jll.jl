@@ -1,0 +1,143 @@
+[[OMPEval]]
+arch = "aarch64"
+git-tree-sha1 = "8fbbb910edf387152f4c36052ecdd0b9a70cf2b1"
+os = "macos"
+
+    [[OMPEval.download]]
+    sha256 = "d6ed0c38c84de76557ca854b604fd8b59e5c2514defa5da3a759ee2db2f2195e"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[OMPEval]]
+arch = "aarch64"
+git-tree-sha1 = "a803bd0d8a54162fe931204dfafcf1fd67909d87"
+libc = "glibc"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "cae534516ee6dd0ff18eb3618c9888bd2d613998429542c676f05e7982787454"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[OMPEval]]
+arch = "aarch64"
+git-tree-sha1 = "f230b4d46afcc05fff635f40b6246cc875b11d98"
+libc = "musl"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "e2ace32cfbccaff2ea4ba8ee2a8494fe7d928fbb655d3a141bf2ce2799f1785f"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.aarch64-linux-musl.tar.gz"
+[[OMPEval]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "132b2adc2ee42b0908dafa0137f99a3f13d5bac6"
+libc = "glibc"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "48cbd2fe8ed117b3725563bf68b9e7ba8c9e73bb25684ff751ff80f4c6ba59c8"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[OMPEval]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8819ab1507688759aa18d889ab622e023ab34500"
+libc = "musl"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "c1b1087df82f908ae071119da4a2dab1cfd5f2b3133e0b864d0b1243e2275576"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[OMPEval]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "78cc9d3e9879b2b1edab81a3273efdf3ee292b9e"
+libc = "glibc"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "c3632317865c44a7ede7d6be9619200904d2966720e5a9c3e48e3e6fddde20d7"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[OMPEval]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "45a31e2dad06e5f33cc2eea0d0eda468a2331d95"
+libc = "musl"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "7d352e93dadb22eaee2da1d0668fc4e15114304e10f82ab19cc8edb352d63a6f"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[OMPEval]]
+arch = "i686"
+git-tree-sha1 = "911a591e6c7e4c0c34accc80ec2d8094c23fbd7a"
+libc = "glibc"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "48e40d3cbcb08524107b5800fb799b63495dc7ecff4868c6543c856d64592f49"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.i686-linux-gnu.tar.gz"
+[[OMPEval]]
+arch = "i686"
+git-tree-sha1 = "f2ce573f04a7fb09c3412d322866a50f415f7ead"
+libc = "musl"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "71aa7c2ac7f9595d23b9f8a26496b8e416d701694b02d7ec1533a8fe66c045f8"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.i686-linux-musl.tar.gz"
+[[OMPEval]]
+arch = "i686"
+git-tree-sha1 = "a46344ae911b2eabf302f5aa4ca570b3530238a1"
+os = "windows"
+
+    [[OMPEval.download]]
+    sha256 = "7e61f5a904ae78a6dea1c5ed710f1a839ec4676baf46d3a6f5cd00823373e17f"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.i686-w64-mingw32.tar.gz"
+[[OMPEval]]
+arch = "powerpc64le"
+git-tree-sha1 = "f256d46b3b4ecbee9d855394f57586617ce2cff2"
+libc = "glibc"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "836e95d47a21f49ae80af349143336129d4079b0c5a4ad768085af29007805a9"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[OMPEval]]
+arch = "x86_64"
+git-tree-sha1 = "033a4129032215add927e42910b63e5e7849fe70"
+os = "macos"
+
+    [[OMPEval.download]]
+    sha256 = "71bb195693c73e7d2d2ee7ac709cffeb068b730d81aa0c65c9c79229f2909936"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[OMPEval]]
+arch = "x86_64"
+git-tree-sha1 = "23998f90ccbc2556647a75bf48570fb6634602c6"
+libc = "glibc"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "fd8ec57d75f72bf1f37c0b052b2d027db35a1734d4c508838921e4a6279d92fc"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[OMPEval]]
+arch = "x86_64"
+git-tree-sha1 = "50a0e29f3ff4cee69e2264673c9885e884900170"
+libc = "musl"
+os = "linux"
+
+    [[OMPEval.download]]
+    sha256 = "ad7f7edb463aeba6a240fc607bc3d2f9b42d92132da28b7e6226ab747e3212a1"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.x86_64-linux-musl.tar.gz"
+[[OMPEval]]
+arch = "x86_64"
+git-tree-sha1 = "ce28809f2a9bac7f4642cb1e3c9be43bf63e7db6"
+os = "freebsd"
+
+    [[OMPEval.download]]
+    sha256 = "ac6f081eeb67094b66e9bebe352c946dfc7777c02ebdd26cede511262f8eb5b9"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[OMPEval]]
+arch = "x86_64"
+git-tree-sha1 = "2477ee43757611897a35bee6b2625c0f17501d24"
+os = "windows"
+
+    [[OMPEval.download]]
+    sha256 = "a1c63a7f615f447ac7a5543813c3dd048c94b72af6f250d9dbcbfd3cfe1774cb"
+    url = "https://github.com/brewer-b/OMPEval_jll.jl/releases/download/OMPEval-v1.0.0+0/OMPEval.v1.0.0.x86_64-w64-mingw32.tar.gz"
